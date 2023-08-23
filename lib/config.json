@@ -1,0 +1,8 @@
+{
+  "com.sample.wireviewer": {
+    "Name": "The Wire Character Viewer",
+    "Data_API": "http://api.duckduckgo.com/?q=the+wire+characters&format=json",
+    "Package_Bundle_name": "com.sample.wireviewer",
+    "Missing_Image": "https://yt3.googleusercontent.com/ytc/AOPolaQOg6t31JQM6u_tyaQSngrIndqvdzz6roTudUcE9Q=s900-c-k-c0x00ffffff-no-rj"
+  }
+}
